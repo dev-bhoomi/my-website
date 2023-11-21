@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.f3266662.css",
+    "main.js": "/my-website/static/js/main.c9c0eeb2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-website/static/js/787.28cb0dcd.chunk.js",
+    "static/media/2.jpg": "/my-website/static/media/2.bbb3d9de9e514e8524f3.jpg",
+    "static/media/4.jpg": "/my-website/static/media/4.8951a2f8d3dbbbce39c6.jpg",
+    "static/media/living-room.jpg": "/my-website/static/media/living-room.4798673d81c54f61a32f.jpg",
+    "static/media/5.avif": "/my-website/static/media/5.8b362325e10de6e18ec1.avif",
+    "static/media/8.webp": "/my-website/static/media/8.0b0d2d49bbad48f41a07.webp",
+    "index.html": "/my-website/index.html",
+    "main.f3266662.css.map": "/my-website/static/css/main.f3266662.css.map",
+    "main.c9c0eeb2.js.map": "/my-website/static/js/main.c9c0eeb2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-website/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3266662.css",
+    "static/js/main.c9c0eeb2.js"
+  ]
+}
