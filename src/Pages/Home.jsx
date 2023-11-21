@@ -66,7 +66,7 @@ const Home = () => {
       <section className='hero-header-3'>
         <div className="container-xxl">
           <div className="banner py-5 my-5">
-            <img src="my-website/images/2.jpg" alt="couch" />
+            <img src="/my-website/images/2.jpg" alt="couch" />
           </div>
           <div className="row">
             <div className="col-sm-12">
@@ -151,7 +151,7 @@ const Home = () => {
                 </div>
                   <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                <img src="my-website/images/michellep.jpg" alt="team1" className='img-fluid' />
+                <img src="/my-website/images/michellep.jpg" alt="team1" className='img-fluid' />
                 </div>
                 <div className='teamName'>
                   <p className='text-dark fw-bold'>Michelle P.</p>
@@ -169,7 +169,7 @@ const Home = () => {
               </div>
               <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                <img src="my-website/images/smit.jpg" alt="team1" className='img-fluid' />
+                <img src="/my-website/images/smit.jpg" alt="team1" className='img-fluid' />
                 </div>
                 <div className='teamName'>
                   <p className='text-dark fw-bold'>Smith T.</p>
@@ -186,7 +186,7 @@ const Home = () => {
               </div>
               <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                <img src="my-website/images/johnny.jpg" alt="team1" className='img-fluid' />
+                <img src="/my-website/images/johnny.jpg" alt="team1" className='img-fluid' />
                 </div>
                 <div className='teamName'>
                   <p className='text-dark fw-bold'>John J.</p>
@@ -213,19 +213,19 @@ const Home = () => {
       <section className='hero-header-7 pb-5'>
         <div className="row">
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="images/logo-5.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-5.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="images/logo-3.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-3.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="images/logo-4.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-4.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="images/logo-2.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-2.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="images/logo-1.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-1.svg" alt="" />
           </div>
         </div>
       </section>

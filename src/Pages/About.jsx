@@ -105,19 +105,19 @@ const About = () => {
       <section className='hero-header-7 py-5 mt-5'>
         <div className="row">
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="my-website/images/logo-5.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-5.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="my-website/images/logo-3.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-3.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="my-website/images/logo-4.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-4.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="my-website/images/logo-2.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-2.svg" alt="" />
           </div>
           <div className="col-sm-6 col-md-2 col-lg-2 col-xl-2 mt-3 mx-auto text-center">
-            <img className="text-dark img-fluid" src="my-website/images/logo-1.svg" alt="" />
+            <img className="text-dark img-fluid" src="/my-website/images/logo-1.svg" alt="" />
           </div>
         </div>
       </section>

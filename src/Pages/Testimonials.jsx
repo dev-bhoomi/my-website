@@ -24,7 +24,7 @@ const Testimonials = () => {
                 </div>
                 <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                    <img src="my-website/images/michellep.jpg" alt="team1" className='img-fluid' />
+                    <img src="/my-website/images/michellep.jpg" alt="team1" className='img-fluid' />
                   </div>
                   <div className='teamName'>
                     <p className='text-dark fw-bold'>Michelle P.</p>
@@ -40,7 +40,7 @@ const Testimonials = () => {
                 </div>
                 <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                    <img src="my-website/images/johnny.jpg" alt="team1" className='img-fluid' />
+                    <img src="/my-website/images/johnny.jpg" alt="team1" className='img-fluid' />
                   </div>
                   <div className='teamName'>
                     <p className='text-dark fw-bold'>John J.</p>
@@ -58,7 +58,7 @@ const Testimonials = () => {
                 </div>
                 <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                    <img src="my-website/images/smit.jpg" alt="team1" className='img-fluid' />
+                    <img src="/my-website/images/smit.jpg" alt="team1" className='img-fluid' />
                   </div>
                   <div className='teamName'>
                     <p className='text-dark fw-bold'>Smith T.</p>
@@ -77,7 +77,7 @@ const Testimonials = () => {
                 </div>
                 <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                    <img src="my-website/images/tupips.jpg" alt="team1" className='img-fluid' />
+                    <img src="/my-website/images/tupips.jpg" alt="team1" className='img-fluid' />
                   </div>
                   <div className='teamName'>
                     <p className='text-dark fw-bold'>Tulip Watt</p>
@@ -94,7 +94,7 @@ const Testimonials = () => {
                 </div>
                 <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                    <img src="my-website/images/marcos.jpg" alt="team1" className='img-fluid' />
+                    <img src="/my-website/images/marcos.jpg" alt="team1" className='img-fluid' />
                   </div>
                   <div className='teamName'>
                     <p className='text-dark fw-bold'>Marco U.</p>
@@ -110,7 +110,7 @@ const Testimonials = () => {
                 </div>
                 <div className='detail d-flex'>
                   <div className='teampic text-start ms-3 '>
-                    <img src="my-website/images/cherryt.jpg" alt="team1" className='img-fluid' />
+                    <img src="/my-website/images/cherryt.jpg" alt="team1" className='img-fluid' />
                   </div>
                   <div className='teamName'>
                     <p className='text-dark fw-bold'>Cherry Taylor</p>

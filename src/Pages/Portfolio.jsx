@@ -23,21 +23,21 @@ const Portfolio = () => {
           <p className='text-dark ms-3 me-5'>This is a short description elaborating the service you have mentioned above.​</p>
         </div> 
         <div className="col-sm-12 col-lg-4 pt-5">
-          <img src="my-website/images/project-1-1.jpg" alt="" />
+          <img src="/my-website/images/project-1-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4 pt-5">
-        <img src="my-website/images/project-2-1.jpg" alt="" />
+        <img src="/my-website/images/project-2-1.jpg" alt="" />
         </div>
       </div>
       <div className="row">
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/project-1-1.jpg" alt="" />
+        <img src="/my-website/images/project-1-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-          <img src="my-website/images/project-2-1.jpg" alt="" />
+          <img src="/my-website/images/project-2-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/project-5-1.jpg" alt="" />
+        <img src="/my-website/images/project-5-1.jpg" alt="" />
         </div>
       </div>
     </div>
@@ -50,21 +50,21 @@ const Portfolio = () => {
           <p className='text-dark ms-3 me-5'>This is a short description elaborating the service you have mentioned above.​.​</p>
         </div> 
         <div className="col-sm-12 col-lg-4 pt-5">
-          <img src="my-website/images/kitchen-1-1.jpg" alt="" />
+          <img src="/my-website/images/kitchen-1-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4 pt-5">
-        <img src="my-website/images/kitchen-2-1.jpg" alt="" />
+        <img src="/my-website/images/kitchen-2-1.jpg" alt="" />
         </div>
       </div>
       <div className="row">
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/kitchen-1-1.jpg" alt="" />
+        <img src="/my-website/images/kitchen-1-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-          <img src="my-website/images/kitchen-2-1.jpg" alt="" />
+          <img src="/my-website/images/kitchen-2-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/kitchen-5-1.jpg" alt="" />
+        <img src="/my-website/images/kitchen-5-1.jpg" alt="" />
         </div>
       </div>
     </div>
@@ -78,21 +78,21 @@ const Portfolio = () => {
           <p className='text-dark ms-3 me-5'>This is a short description elaborating the service you have mentioned above.​</p>
         </div> 
         <div className="col-sm-12 col-lg-4 pt-5">
-          <img src="my-website/images/office-1-1.jpg" alt="" />
+          <img src="/my-website/images/office-1-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4 pt-5">
-        <img src="my-website/images/office-2-1.jpg" alt="" />
+        <img src="/my-website/images/office-2-1.jpg" alt="" />
         </div>
       </div>
       <div className="row">
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/office-3-1.jpg" alt="" />
+        <img src="/my-website/images/office-3-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-          <img src="my-website/images/office-4-1.jpg" alt="" />
+          <img src="/my-website/images/office-4-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/office-1-1.jpg" alt="" />
+        <img src="/my-website/images/office-1-1.jpg" alt="" />
         </div>
       </div>
     </div>
@@ -105,21 +105,21 @@ const Portfolio = () => {
           <p className='text-dark ms-3 me-5'>This is a short description elaborating the service you have mentioned above.​</p>
         </div> 
         <div className="col-sm-12 col-lg-4 pt-5">
-          <img src="my-website/images/bedroom-1-1.jpg" alt="" />
+          <img src="/my-website/images/bedroom-1-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4 pt-5">
-        <img src="my-website/images/bedroom-2-1.jpg" alt="" />
+        <img src="/my-website/images/bedroom-2-1.jpg" alt="" />
         </div>
       </div>
       <div className="row">
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/bedroom-3-1.jpg" alt="" />
+        <img src="/my-website/images/bedroom-3-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-          <img src="my-website/images/bedroom-2-1.jpg" alt="" />
+          <img src="/my-website/images/bedroom-2-1.jpg" alt="" />
         </div>
         <div className="col-sm-12 col-lg-4">
-        <img src="my-website/images/bedroom-1-1.jpg" alt="" />
+        <img src="/my-website/images/bedroom-1-1.jpg" alt="" />
         </div>
       </div>
     </div>
