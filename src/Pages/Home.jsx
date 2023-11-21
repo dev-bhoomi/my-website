@@ -23,7 +23,7 @@ const Home = () => {
             </div>
             <div className="col-md-6 col-sm-12 text-center text-lg-end hero-2">
               <div className='pray'>
-                <img src="my-website/images/1.jpg" alt="couch" />
+                <img src="/my-website/images/1.jpg" alt="couch" />
 
               </div>
             </div>
@@ -44,7 +44,7 @@ const Home = () => {
           <div className="row text-center">
             <div className="col-sm-12 col-md-6">
               <div className='px-2 my-5 shadow-l'>
-                <img src="my-website/images/about-owners-1.jpg" alt="" />
+                <img src="/my-website/images/about-owners-1.jpg" alt="" />
               </div>
               <span>Interior Solutions Owner & Co-Owner</span>
             </div>
