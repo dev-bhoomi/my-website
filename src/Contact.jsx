@@ -36,7 +36,7 @@ const Contact = () => {
           <div className="row">
             <div className="col-sm-12 col-md-4">
               <div className='px-2 my-5'>
-                <img src="my-website/images/about-owners-1.jpg" alt="" className='w-100 h-100' />
+                <img src="/my-website/images/about-owners-1.jpg" alt="" className='w-100 h-100' />
               </div>
             </div>
             <div className="col-sm-12 col-md-4 ">

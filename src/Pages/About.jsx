@@ -38,7 +38,7 @@ const About = () => {
             </div>
             <div className="col-sm-12 col-lg-6">
               <div className='pic-1 text-center'>
-                <img src="my-website/images/7.jpg" alt="" />
+                <img src="/my-website/images/7.jpg" alt="" />
 
               </div>
             </div>
@@ -85,17 +85,17 @@ const About = () => {
         <div className="container-xxl">
           <div className="row">
             <div className="col-sm-12 col-lg-4 wrapper mb-5 my-5">
-              <img src="my-website/images/image-07 (1).jpg" alt="" />
+              <img src="/my-website/images/image-07 (1).jpg" alt="" />
               <h3>Sam Smith</h3>
               <p>Lead Interior Designer</p>
             </div>
             <div className="col-sm-12 col-lg-4 mb-5 my-5">
-              <img src="my-website/images/image-09.jpg" alt="" />
+              <img src="/my-website/images/image-09.jpg" alt="" />
               <h3>Diane Banks</h3>
               <p>Interior Decorator</p>
             </div>
             <div className="col-sm-12 col-lg-4 mb-5 my-5">
-              <img src="my-website/images/image-11.jpg" alt="" />
+              <img src="/my-website/images/image-11.jpg" alt="" />
               <h3>Mike Straut</h3>
               <p>Interior Designer</p>
             </div>
