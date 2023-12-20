@@ -6,7 +6,7 @@ My-Interior Website is a dynamic web application designed for interior design en
 
 Insert gif or link to demo
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ4eThxMHI4ZHBzMzI4a20zd2FrOTV4MXMzaGk2dXE2ZDV4cXk5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1S1pJDLUzX9jVdTv2/giphy-downsized-large.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJhd2hpYnQxczA5MmhyaTE5ODBoZXdneW55dTY1YTZlY2dkbno3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0VKQLANUYqobyHDv2l/giphy-downsized-large.gif)
 
 ## Deployment
 
