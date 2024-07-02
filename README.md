@@ -14,7 +14,6 @@ Discover various interior design ideas and inspiration to fuel your creativity.
 Enjoy a user-friendly interface that makes it simple to explore and find interior design concepts and services.
 
 
-
 ## Languages/Library
 ### Languages
 - React.js
@@ -22,6 +21,25 @@ Enjoy a user-friendly interface that makes it simple to explore and find interio
 - HTML
 - CSS
 
+### Library
+- "@emotion/react": "^11.11.1",
+- "@emotion/styled": "^11.11.0",
+- "@mui/icons-material": "^5.14.1",
+- "@mui/material": "^5.14.1",
+- "@react-google-maps/api": "^2.19.2",
+- "@testing-library/jest-dom": "^5.16.5",
+- "@testing-library/react": "^13.4.0",
+- "@testing-library/user-event": "^13.5.0",
+- "bootstrap-icons": "^1.10.5",
+- "gh-pages": "^6.1.0",
+- "ionicons": "^7.1.2",
+- "react": "^18.2.0",
+- "react-bootstrap": "^2.8.0",
+- "react-dom": "^18.2.0",
+- "react-icons": "^4.10.1",
+- "react-router-dom": "^6.14.2",
+- "react-scripts": "5.0.1",
+- "web-vitals": "^2.1.4"
 ## Demo
 
 Insert gif or link to demo
